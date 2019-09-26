@@ -1,4 +1,4 @@
-copyright mmurad
+/* Copyright 2019 <mmurad> */
 #include <iostream>
 int main () {
 
