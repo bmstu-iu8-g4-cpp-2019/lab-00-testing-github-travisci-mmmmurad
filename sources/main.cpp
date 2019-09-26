@@ -1,3 +1,4 @@
+copyright mmurad
 #include <iostream>
 int main () {
 
