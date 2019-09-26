@@ -1,6 +1,6 @@
 /* Copyright 2019 <mmurad> */
 #include <iostream>
-int main () {
+int main() {
 
   std::cout << "hw!";
 }
